@@ -1,0 +1,11 @@
+.......Youtube Playlist Downloader.........
+
+
+
+1.Install pytube by following command
+
+pip install pytube
+
+2.Past the playlist link in add_your_playlist_link_here
+
+3.Run the file
